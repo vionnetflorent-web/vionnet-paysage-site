@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { navLinks, siteConfig } from "@/lib/content";
+import { navLinks } from "@/lib/content";
 
 // Fixed top navigation with logo, section links, and a contact CTA.
 // Reused as-is across every page (see app/layout.tsx if you want it global,
