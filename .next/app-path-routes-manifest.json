@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/page": "/admin",
+  "/api/devis/route": "/api/devis",
+  "/blog/page": "/blog",
+  "/devis/page": "/devis",
+  "/page": "/",
+  "/realisations/page": "/realisations"
+}

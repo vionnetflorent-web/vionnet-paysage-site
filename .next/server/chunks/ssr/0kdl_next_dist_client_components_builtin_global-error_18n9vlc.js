@@ -1,0 +1,3 @@
+module.exports=[69643,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(84318);a.n(d("[project]/vionnet-paysage-site-main/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},80206,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(84318);a.n(d("[project]/vionnet-paysage-site-main/node_modules/next/dist/client/components/builtin/global-error.js"))},53923,a=>{"use strict";a.i(69643);var b=a.i(80206);a.n(b)},93382,a=>{a.n(a.i(53923))}];
+
+//# sourceMappingURL=0kdl_next_dist_client_components_builtin_global-error_18n9vlc.js.map
